@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rodriguezgon22@gmail.com
+	name = gonzaloRodriguez
